@@ -1,0 +1,41 @@
+1510566842182	geckodriver	INFO	Listening on 127.0.0.1:61376
+1510566843973	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1510566845738	Marionette	INFO	Enabled via --marionette
+1510566852691	Marionette	INFO	Listening on port 61396
+1510566853960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510566854090	Marionette	DEBUG	Register listener.js for window 4294967297
+1510566854161	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510566854843	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510566854843	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510566854849	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/ranzhi/www/sys/index.php"
+1510566854852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/ranzhi/www/sys/index.php"
+1510566855302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/ranzhi/www/sys/user-login-L3JhbnpoaS93d3cvc3lzLw==.html"
+1510566855304	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/ranzhi/www/sys/user-login-L3JhbnpoaS93d3cvc3lzLw==.html"
+1510566855649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510567019132	geckodriver	INFO	Listening on 127.0.0.1:62007
+1510567021194	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1510567022340	Marionette	INFO	Enabled via --marionette
+1510567025990	Marionette	INFO	Listening on port 62015
+1510567026558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510567026637	Marionette	DEBUG	Register listener.js for window 4294967297
+1510567026661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510567026927	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510567026927	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510567026933	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/ranzhi/www/sys/index.php"
+1510567026936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/ranzhi/www/sys/index.php"
+1510567027257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/ranzhi/www/sys/user-login-L3JhbnpoaS93d3cvc3lzLw==.html"
+1510567027262	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/ranzhi/www/sys/user-login-L3JhbnpoaS93d3cvc3lzLw==.html"
+1510567027576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
